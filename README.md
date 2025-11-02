@@ -23,9 +23,9 @@ Langkah-langkah pengerjaan:
 4. git add file dan commit -m Screenshot Website yang sudah diupdate
 <img width="859" height="225" alt="Screenshot 2025-11-01 223325" src="https://github.com/user-attachments/assets/32e1a6ef-d3af-4cff-bb59-721951c25bda" />
 
-5. git push
+6. git push
 <img width="884" height="326" alt="image" src="https://github.com/user-attachments/assets/3a33cc71-4371-4989-8eb5-0933f1655255" />
 
-8. git log --graph --oneline
+7. git log --graph --oneline
 <img width="1075" height="189" alt="image" src="https://github.com/user-attachments/assets/f1f09220-c95b-44fc-9cb5-caf6ec39d4e8" />
 
