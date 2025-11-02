@@ -24,7 +24,7 @@ Langkah-langkah pengerjaan:
 4. git add file dan commit -m Screenshot Website yang sudah diupdate
 <img width="859" height="225" alt="Screenshot 2025-11-01 223325" src="https://github.com/user-attachments/assets/32e1a6ef-d3af-4cff-bb59-721951c25bda" />
 
-5. git remote add origin untuk menghubungkan repositori lokal ke remote (sebelumnya sudah lupa masukin hasil ss ini dan sebelumnya saya sudah berhasil hubungkan)
+5. git remote add origin untuk menghubungkan repositori lokal ke remote (sebelumnya saya lupa masukin hasil ss ini dan sebelumnya saya sudah berhasil hubungkan)
 <img width="1026" height="221" alt="Screenshot 2025-11-02 155408" src="https://github.com/user-attachments/assets/61ca82c3-7bc2-4133-9a52-e8058ce9f698" />
 
 6. git push
